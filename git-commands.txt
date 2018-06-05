@@ -1,0 +1,8 @@
+1. git init - Initialise git repository
+2. git status - To check which files are modified or changed
+3. git log - Information about commits
+4. git add - Add modfied changes to git repository
+5. git commit -m - To create a checkpoint with a message(with help of -m)
+6. git remote add origin link - To store our git link within variable origin
+7. git config - Sets a username to commit
+8. git push -u origin master - To push changes to github repository
